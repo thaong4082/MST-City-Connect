@@ -1,4 +1,4 @@
-# 311 Group Project: Connecting a City  
+## Connecting a City  
 
 ## City Connection System  
 This project generates a Minimum Spanning Tree (MST) from files containing the intersections and roads of a given city. How this MST is generated and which city it is generated for is up to the user! Choose between four different algorithms, such as Prim's Algorithm or Kruskal's Algorithm, and five different locations, like San Francisco or North America.   
